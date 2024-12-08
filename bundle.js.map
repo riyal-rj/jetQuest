@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":"AAAAA,OAAO,CAACC,GAAG,CAAC,OAAO,CAAC","file":"bundle.js","sourceRoot":"","sourcesContent":["console.log('Hello')"]}

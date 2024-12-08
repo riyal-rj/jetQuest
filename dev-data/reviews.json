@@ -1,0 +1,680 @@
+[{
+  "_id": {
+    "$oid": "675080dbb4ba1071dd31169f"
+  },
+  "review": "Exploring the vibrant ghats and narrow alleys of Varanasi gives a glimpse into the city’s unique culture and traditions.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295a"
+  },
+  "user": {
+    "$oid": "6750752eb4ba1071dd311673"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508151b4ba1071dd3116a6"
+  },
+  "review": "The tour provided an insightful journey through Varanasi’s iconic temples and historic landmarks, leaving us enriched and inspired.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295a"
+  },
+  "user": {
+    "$oid": "6750754db4ba1071dd311675"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675081d2b4ba1071dd3116ad"
+  },
+  "review": "The serene boat ride on the Ganges at sunrise was breathtaking and offered a peaceful start to the day.",
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295a"
+  },
+  "user": {
+    "$oid": "6750735fb4ba1071dd31166b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675082b5b4ba1071dd3116f7"
+  },
+  "review": "Varanasi combines spirituality and history seamlessly, making it a perfect destination for anyone seeking cultural and emotional fulfillment.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295a"
+  },
+  "user": {
+    "$oid": "6750760eb4ba1071dd31167b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750836ab4ba1071dd311708"
+  },
+  "review": "Spiti Valley’s breathtaking landscapes, with snow-capped peaks and pristine rivers, offer a serene escape into nature’s beauty.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2961"
+  },
+  "user": {
+    "$oid": "675074ddb4ba1071dd311671"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750839cb4ba1071dd311713"
+  },
+  "review": "Driving through Spiti Valley’s rugged terrain provides an adventure filled with stunning vistas and thrilling experiences at every turn.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2961"
+  },
+  "user": {
+    "$oid": "6750731cb4ba1071dd311667"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675083ccb4ba1071dd31171e"
+  },
+  "review": "The night skies in Spiti Valley are a dream for stargazers, offering unparalleled views of the Milky Way and constellations",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2961"
+  },
+  "user": {
+    "$oid": "675075d9b4ba1071dd311679"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508443b4ba1071dd311729"
+  },
+  "review": "Spiti Valley’s tranquil villages and warm locals create a heartwarming experience that perfectly complements its natural grandeur.",
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2961"
+  },
+  "user": {
+    "$oid": "675073bbb4ba1071dd31166f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508585b4ba1071dd311759"
+  },
+  "review": "The mesmerizing landscapes of Leh, with its rugged mountains and crystal-clear skies, make it a true paradise for travelers.",
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2970"
+  },
+  "user": {
+    "$oid": "6750760eb4ba1071dd31167b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508634b4ba1071dd31176f"
+  },
+  "review": "Driving through the high passes of Leh was thrilling, with every moment offering panoramic views and unmatched beauty.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2970"
+  },
+  "user": {
+    "$oid": "6750738bb4ba1071dd31166d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508688b4ba1071dd311786"
+  },
+  "review": "Leh’s blend of spirituality, adventure, and natural grandeur makes it a perfect destination for anyone seeking a Himalayan escape.",
+  "rating": 4.82,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2970"
+  },
+  "user": {
+    "$oid": "67507583b4ba1071dd311677"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675086deb4ba1071dd31179c"
+  },
+  "review": "Exploring Leh’s rich culture, monasteries, and serene lakes made the trip an unforgettable adventure in the Himalayas.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2970"
+  },
+  "user": {
+    "$oid": "67507636b4ba1071dd31167d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508787b4ba1071dd3117b8"
+  },
+  "review": "The pristine rivers and dense forests of Arunachal Pradesh create a tranquil escape that feels like stepping into another world.",
+  "rating": 4.5,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c296c"
+  },
+  "user": {
+    "$oid": "675078dcb4ba1071dd311693"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675087e4b4ba1071dd3117c3"
+  },
+  "review": "The vibrant tribal culture and warm hospitality in Arunachal Pradesh made our journey both enriching and unforgettable.",
+  "rating": 4.55,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c296c"
+  },
+  "user": {
+    "$oid": "675078bcb4ba1071dd311691"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508821b4ba1071dd3117ce"
+  },
+  "review": "Arunachal Pradesh’s untouched beauty, from serene valleys to majestic mountains, is a true paradise for nature lovers.",
+  "rating": 4.55,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c296c"
+  },
+  "user": {
+    "$oid": "6750789fb4ba1071dd31168f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750886db4ba1071dd3117d9"
+  },
+  "review": "Exploring Tawang Monastery and Sela Pass was a spiritual and scenic delight, showcasing the unique charm of this region.",
+  "rating": 4.4,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c296c"
+  },
+  "user": {
+    "$oid": "67507877b4ba1071dd31168d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508a65b4ba1071dd3117f3"
+  },
+  "review": "The Sandakphu trek offers stunning views of the Kanchenjunga and Everest ranges, making it a dream for avid trekkers.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2951"
+  },
+  "user": {
+    "$oid": "67507a51b4ba1071dd311695"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508aa7b4ba1071dd3117ff"
+  },
+  "review": "From lush forests to snow-covered peaks, the trek to Sandakphu showcases nature’s beauty at its finest, especially during sunrise.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2951"
+  },
+  "user": {
+    "$oid": "67507346b4ba1071dd311669"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508b87b4ba1071dd311813"
+  },
+  "review": "This trek offers a perfect blend of adventure, natural beauty, and cultural experiences, making it one of the best in the region.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2951"
+  },
+  "user": {
+    "$oid": "67508b66b4ba1071dd311810"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508c1ab4ba1071dd31181e"
+  },
+  "review": "Reaching the summit of Sandakphu, the highest point in West Bengal, offers an awe-inspiring 360-degree view of the Himalayas.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2951"
+  },
+  "user": {
+    "$oid": "67508b0eb4ba1071dd31180c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508c87b4ba1071dd311832"
+  },
+  "review": "The scenic beauty of Kashmir, from the snow-capped peaks of Gulmarg to the vibrant gardens of Srinagar, is unparalleled.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2966"
+  },
+  "user": {
+    "$oid": "675075d9b4ba1071dd311679"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508cb5b4ba1071dd311840"
+  },
+  "review": "Kashmir’s unique blend of natural beauty, rich history, and warm hospitality creates an unforgettable travel experience.",
+  "rating": 4.6,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2966"
+  },
+  "user": {
+    "$oid": "6750731cb4ba1071dd311667"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508cddb4ba1071dd31184e"
+  },
+  "review": "Whether you’re visiting in summer to see lush meadows or winter for snowy landscapes, Kashmir never fails to captivate with its charm.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2966"
+  },
+  "user": {
+    "$oid": "6750752eb4ba1071dd311673"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508dc0b4ba1071dd31186d"
+  },
+  "review": "Kashmir is truly a paradise on Earth, with its breathtaking landscapes, lush valleys, and tranquil Dal Lake offering a serene escape.",
+  "rating": 4.7,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2966"
+  },
+  "user": {
+    "$oid": "67508b66b4ba1071dd311810"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508e7fb4ba1071dd31188d"
+  },
+  "review": "This trek provides an unforgettable experience with its serene campsite, stunning sunrise views, and the thrill of reaching the summit.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295d"
+  },
+  "user": {
+    "$oid": "67508b0eb4ba1071dd31180c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508f39b4ba1071dd311899"
+  },
+  "review": "The Kedarkantha trek is a great mix of challenge and beauty, with magnificent snowy landscapes and a rewarding sense of achievement at the top.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295d"
+  },
+  "user": {
+    "$oid": "67508b41b4ba1071dd31180e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508f64b4ba1071dd3118a5"
+  },
+  "review": "Walking through the pristine forests of Kedarkantha, surrounded by snow and breathtaking views, makes it one of the most scenic treks in India.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295d"
+  },
+  "user": {
+    "$oid": "6750738bb4ba1071dd31166d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67508f94b4ba1071dd3118b1"
+  },
+  "review": "The Kedarkantha trek offers a great blend of adventure, nature, and tranquility, perfect for trekkers of all levels.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c295d"
+  },
+  "user": {
+    "$oid": "6750754db4ba1071dd311675"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67509013b4ba1071dd3118c4"
+  },
+  "review": "Rishikesh offers an incredible blend of spirituality and adventure, with rafting on the Ganges being an exhilarating experience for thrill-seekers.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2999"
+  },
+  "user": {
+    "$oid": "6750735fb4ba1071dd31166b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750903cb4ba1071dd3118d0"
+  },
+  "review": "The combination of peaceful yoga retreats and exciting rafting experiences in Rishikesh creates a perfect balance for adventure and relaxation.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2999"
+  },
+  "user": {
+    "$oid": "6750752eb4ba1071dd311673"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67509066b4ba1071dd3118dc"
+  },
+  "review": "Rafting in Rishikesh is an absolute thrill, with professional guides ensuring safety while you enjoy the stunning river and surrounding mountains.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2999"
+  },
+  "user": {
+    "$oid": "67507636b4ba1071dd31167d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750908db4ba1071dd3118e8"
+  },
+  "review": "Rishikesh’s scenic beauty, combined with the adrenaline rush of rafting, makes it a top destination for adventure lovers and spiritual seekers alike.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2999"
+  },
+  "user": {
+    "$oid": "67507346b4ba1071dd311669"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750910ab4ba1071dd3118fb"
+  },
+  "review": "Hanle’s clear skies and pristine environment make it one of the best spots for stargazing in India, offering an unmatched view of the cosmos.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2974"
+  },
+  "user": {
+    "$oid": "67508b0eb4ba1071dd31180c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67509186b4ba1071dd311907"
+  },
+  "review": "The stargazing experience at Nubra, Hanle, and Pangong was extraordinary. The beauty of the night sky in such remote areas is simply mesmerizing.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2974"
+  },
+  "user": {
+    "$oid": "6750738bb4ba1071dd31166d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675091d4b4ba1071dd311914"
+  },
+  "review": "Whether it’s the star-filled skies in Nubra, the incredible Milky Way at Hanle, or the peaceful views at Pangong, stargazing in these places is a must-do.",
+  "rating": 4.8,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2974"
+  },
+  "user": {
+    "$oid": "675074ddb4ba1071dd311671"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750921db4ba1071dd311920"
+  },
+  "review": "Stargazing in Nubra Valley is nothing short of magical. The clear skies and desert landscape create the perfect backdrop for observing distant galaxies and constellations.",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2974"
+  },
+  "user": {
+    "$oid": "67508ae9b4ba1071dd311808"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67509293b4ba1071dd31193a"
+  },
+  "review": "Lakshadweep offers an idyllic tropical paradise with crystal-clear waters, coral reefs, and beautiful beaches, making it perfect for a serene gateway.",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2955"
+  },
+  "user": {
+    "$oid": "67508afab4ba1071dd31180a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67509363b4ba1071dd31194c"
+  },
+  "review": "Exploring the pristine islands of Lakshadweep, with its turquoise lagoons and peaceful surroundings, provides a truly peaceful and rejuvenating experience.",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2955"
+  },
+  "user": {
+    "$oid": "6750760eb4ba1071dd31167b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6750939bb4ba1071dd311957"
+  },
+  "review": "Lakshadweep’s secluded beaches, vibrant coral reefs, and crystal-clear waters offer the ultimate tropical escape, ideal for diving and snorkeling enthusiasts.",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2955"
+  },
+  "user": {
+    "$oid": "67507583b4ba1071dd311677"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675093d3b4ba1071dd311962"
+  },
+  "review": "The natural beauty and tranquility of Lakshadweep, along with its charming islands, make it a perfect destination for a relaxing and unforgettable vacation.",
+  "rating": 4.9,
+  "createdAt": {
+    "$date": "2024-12-04T15:12:08.153Z"
+  },
+  "tour": {
+    "$oid": "5c88fa8cf4afda39709c2955"
+  },
+  "user": {
+    "$oid": "6750754db4ba1071dd311675"
+  },
+  "__v": 0
+}]

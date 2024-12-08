@@ -1,0 +1,704 @@
+[
+  {
+    "startLocation": {
+        "description": "Kavaratti, Lakshadweep, India",
+        "type": "Point",
+        "coordinates": [72.642000, 10.566700],
+        "address": "Kavaratti, Lakshadweep 682555, India"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2024-12-19T09:00:00.000Z",
+      "2025-04-20T09:00:00.000Z",
+      "2025-09-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Coral Paradise: The Lakshadweep Escape",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 90000,
+    "summary": "Exploring the serene islands and marine life of Lakshadweep",
+    "description": "Experience the unspoiled beauty of Lakshadweep, a tropical paradise with pristine beaches, coral reefs, and turquoise waters. From the bustling Kavaratti Island to the tranquil shores of Minicoy, enjoy snorkeling, diving, and cultural experiences in this unique archipelago.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Agatti Island",
+        "type": "Point",
+        "coordinates": [72.194460, 10.857470],
+        "day": 1
+    },
+    {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Bangaram Island",
+        "type": "Point",
+        "coordinates": [72.280570, 10.948130],
+        "day": 2
+    },
+    {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Kavaratti Island",
+        "type": "Point",
+        "coordinates": [72.642000, 10.566700],
+        "day": 3
+    },
+    {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Minicoy Island",
+        "type": "Point",
+        "coordinates": [73.048550, 8.296590],
+        "day": 5
+    }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Darjeeling, India",
+      "type": "Point",
+      "coordinates": [88.263639, 27.041020],
+      "address": "Darjeeling, West Bengal, India"
+    },
+    "ratingsAverage": 4.3,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2025-05-12T09:00:00.000Z",
+      "2025-10-07T09:00:00.000Z",
+      "2025-10-16T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Trail to the Peaks: Sandakphu Adventure",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "moderate",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 22000,
+  "summary": "Trek to Sandakphu, the highest peak in West Bengal, with mesmerizing views of Kanchenjunga and Everest.",
+  "description": "Experience the breathtaking Sandakphu Trek, starting from Darjeeling. Traverse through rhododendron forests, alpine meadows, and quaint villages while enjoying awe-inspiring views of the Sleeping Buddha, Kanchenjunga, and Everest. A true adventure for trekking enthusiasts and nature lovers.",
+    "imageCover": "tour-1-cover.jpg",
+"locations": [
+    {
+      "_id": "5c88fa8cf4afda39709c2954",
+      "description": "Darjeeling",
+      "type": "Point",
+      "coordinates": [88.263639, 27.041020],
+      "day": 1
+    },
+    {
+      "_id": "5c88fa8cf4afda39709c2953",
+      "description": "Tumling",
+      "type": "Point",
+      "coordinates": [88.069502, 27.059681],
+      "day": 2
+    },
+    {
+      "_id": "5c88fa8cf4afda39709c2955",
+      "description": "Kalipokhri",
+      "type": "Point",
+      "coordinates": [88.010453, 27.123191],
+      "day": 4
+    },
+    {
+      "_id": "5c88fa8cf4afda39709c2952",
+      "description": "Sandakphu",
+      "type": "Point",
+      "coordinates": [88.008796, 27.116398],
+      "day": 5
+    }
+  ]
+  },
+  {
+    "startLocation": {
+      "description": "Haridwar, India",
+      "type": "Point",
+      "coordinates": [78.166666, 29.945690],
+      "address": "Haridwar, Uttarakhand, India"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 25,
+    "images": ["tour-10-1.jpg", "tour-10-2.jpg", "tour-10-3.jpg"],
+    "startDates": [
+      "2025-04-15T08:00:00.000Z",
+      "2025-10-10T08:00:00.000Z",
+      "2025-10-20T08:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2999",
+    "name": "Himalayan Rapids: Rishikesh Rafting Odyssey",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "moderate",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 30000,
+    "summary": "Thrilling rafting in Rishikesh with serene stops in Haridwar and Mussoorie over seven days.",
+    "description": "Embark on an adrenaline-pumping rafting adventure in the Ganga River, starting with the spiritual charm of Haridwar, followed by white-water rafting in Rishikesh. Enjoy scenic views of the Himalayan foothills and end your journey with the tranquil beauty of Mussoorie.",
+    "imageCover": "tour-10-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2991",
+        "description": "Haridwar",
+        "type": "Point",
+        "coordinates": [78.166666, 29.945690],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2992",
+        "description": "Rishikesh",
+        "type": "Point",
+        "coordinates": [78.267638, 30.103368],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2994",
+        "description": "Shivpuri (rafting point)",
+        "type": "Point",
+        "coordinates": [78.363882, 30.162505],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2995",
+        "description": "Kaudiyala (rafting and camping)",
+        "type": "Point",
+        "coordinates": [78.486024, 30.142021],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2993",
+        "description": "Mussoorie",
+        "type": "Point",
+        "coordinates": [78.065013, 30.459482],
+        "day": 6
+      }
+    ]
+  },  
+  {
+    "startLocation": {
+      "description": "Varanasi, India",
+      "type": "Point",
+      "coordinates": [82.973914, 25.317645],
+      "address": "Dashashwamedh Ghat, Varanasi, Uttar Pradesh 221001, India"
+  },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2024-12-05T10:00:00.000Z",
+      "2025-01-12T10:00:00.000Z",
+      "2025-11-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Shanti Aur Sanskriti: Varanasi Ki Awaaz",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 15000,
+    "summary": "Explore the spiritual and cultural richness of Varanasi",
+    "description": "Dive into the timeless charm of Varanasi, the spiritual capital of India. Witness mesmerizing Ganga Aarti at the ghats, explore ancient temples, and experience the vibrant culture of this historic city.",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c295c",
+            "description": "Dashashwamedh Ghat",
+            "type": "Point",
+            "coordinates": [82.974229, 25.310937],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c295b",
+            "description": "Kashi Vishwanath Temple",
+            "type": "Point",
+            "coordinates": [82.999778, 25.307928],
+            "day": 2
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c295d",
+            "description": "Sarnath",
+            "type": "Point",
+            "coordinates": [83.021458, 25.381293],
+            "day": 3
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c295e",
+            "description": "Ramnagar Fort",
+            "type": "Point",
+            "coordinates": [83.003836, 25.282802],
+            "day": 4
+        }
+    ]
+  },
+  {
+    "startLocation": {
+        "description": "Spiti Valley, India",
+        "type": "Point",
+        "coordinates": [78.000328, 32.246763],
+        "address": "Kaza, Spiti Valley, Himachal Pradesh, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2025-10-20T09:00:00.000Z",
+      "2025-11-06T10:00:00.000Z",
+      "2025-11-14T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Mystical Spiti: Journey to the Middle Land",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 45000,
+   "summary": "Exploring the breathtaking landscapes of Spiti Valley in the Himalayas",
+    "description": "Experience the raw beauty of the Spiti Valley, nestled in the Indian Himalayas. From ancient monasteries to pristine lakes and high-altitude desert landscapes, this adventure offers an unparalleled connection with nature. Ideal for those seeking a mix of culture, spirituality, and rugged mountain terrain.",
+    "imageCover":"tour-5-cover.jpg",
+    "locations": [
+      {
+          "_id": "5c88fa8cf4afda39709c2965",
+          "description": "Key Monastery",
+          "type": "Point",
+          "coordinates": [78.001872, 32.283205],
+          "day": 1
+      },
+      {
+          "_id": "5c88fa8cf4afda39709c2964",
+          "description": "Chandratal Lake",
+          "type": "Point",
+          "coordinates": [77.616579, 32.475281],
+          "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2966",
+        "description": "Chitkul, Last Village on Indo-China Border",
+        "type": "Point",
+        "coordinates": [78.439709, 31.352359],
+        "day": 6
+    },
+    {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Reckong Peo and Kalpa",
+        "type": "Point",
+        "coordinates": [78.270206, 31.528822],
+        "day": 8
+    }
+  ]
+  },
+  {
+    "startLocation": {
+      "description": "Sankri, Uttarakhand, India",
+      "type": "Point",
+      "coordinates": [78.163066, 31.024084],
+      "address": "Sankri Village, Uttarkashi, Uttarakhand, India"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2025-11-05T10:00:00.000Z",
+      "2025-11-12T09:00:00.000Z",
+      "2025-11-20T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "The Frozen Trail: Trek to Kedarkantha",
+    "duration": 8,
+    "maxGroupSize": 15,
+    "difficulty": "moderate",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 40000,
+    "summary": "An exhilarating trek to the Kedarkantha Summit in the lap of the Himalayas",
+    "description": "Kedarkantha Trek is one of the most popular winter treks in the Indian Himalayas. With stunning snow-clad peaks, dense pine forests, and captivating landscapes, it’s an ideal trek for beginners and seasoned adventurers. The trail starts from Sankri, a quaint village, and takes you through Juda Ka Talab, open meadows, and ultimately to the Kedarkantha Summit, offering breathtaking 360-degree views of the mountains.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Sankri Village",
+        "type": "Point",
+        "coordinates": [78.163066, 31.024084],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Juda Ka Talab",
+        "type": "Point",
+        "coordinates": [78.165152, 31.078036],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Kedarkantha Base Camp",
+        "type": "Point",
+        "coordinates": [78.191419, 31.085872],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295d",
+        "description": "Kedarkantha Summit",
+        "type": "Point",
+        "coordinates": [78.211672, 31.091451],
+        "day": 6
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Descend to Sankri",
+        "type": "Point",
+        "coordinates": [78.163066, 31.024084],
+        "day": 7
+      }
+    ]
+  },
+  {
+    "startLocation": {
+        "description": "Srinagar, Kashmir, India",
+        "type": "Point",
+        "coordinates": [74.805553, 34.083671],
+        "address": "Srinagar, Jammu & Kashmir, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2024-12-09T09:00:00.000Z",
+      "2025-04-06T09:00:00.000Z",
+      "2025-09-10T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Paradise Unveiled: The Kashmir Experience",
+    "duration": 12,
+    "maxGroupSize": 10,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 65000,
+    "summary": "Explore the unexplored and tranquil side of Kashmir's beauty",
+    "description": "This tour takes you through the hidden gems of Kashmir, offering a mix of scenic landscapes, serene valleys, and thrilling adventures. Experience the tranquility of Gurez Valley, the charm of Yusmarg, and the grandeur of the mountains at Gulmarg. This offbeat Kashmir itinerary promises memories of a lifetime with its perfect blend of nature, adventure, and culture.",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c296b",
+            "description": "Srinagar and Dal Lake",
+            "type": "Point",
+            "coordinates": [74.808724, 34.128539],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c296a",
+            "description": "Yusmarg",
+            "type": "Point",
+            "coordinates": [74.613609, 33.826241],
+            "day": 2
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2969",
+            "description": "Gurez Valley",
+            "type": "Point",
+            "coordinates": [74.78852, 34.649935],
+            "day": 3
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2968",
+            "description": "Doodhpathri",
+            "type": "Point",
+            "coordinates": [74.612066, 34.086799],
+            "day": 5
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2967",
+            "description": "Gulmarg (Skiing and Gondola Ride)",
+            "type": "Point",
+            "coordinates": [74.380073, 34.046717],
+            "day": 7
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2966",
+            "description": "Pahalgam (Betaab Valley and Aru Valley)",
+            "type": "Point",
+            "coordinates": [75.32083, 34.010056],
+            "day": 9
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c296c",
+            "description": "Sonmarg (Meadow of Gold)",
+            "type": "Point",
+            "coordinates": [75.291284, 34.309321],
+            "day": 10
+        }
+    ]
+  },
+  {
+    "startLocation": {
+        "description": "Srinagar, Kashmir, India",
+        "type": "Point",
+        "coordinates": [74.805553, 34.083671],
+        "address": "Srinagar, Jammu & Kashmir, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 15,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2025-05-04T10:00:00.000Z",
+      "2025-05-25T09:00:00.000Z",
+      "2025-06-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Leh's Majestic Passes: The Ultimate High Pass Expedition",
+    "duration": 15,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 122997,
+    "summary": "A thrilling adventure from Srinagar to Manali, covering key high passes, Nubra, Pangong, and star-gazing at Hanle.",
+    "description": "This 15-day adventure covers the most breathtaking sights of Ladakh and Himachal Pradesh. Starting from Srinagar, you'll journey through stunning high passes, visit Pangong Lake, Nubra Valley, and star-gazing at Hanle, while ending in Manali.",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+        {
+            "_id": "5c88fa8cf4afda39709c2973",
+            "description": "Srinagar",
+            "type": "Point",
+            "coordinates": [74.805553, 34.083671],
+            "day": 1
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2974",
+            "description": "Sonamarg (Meadow of Gold)",
+            "type": "Point",
+            "coordinates": [75.291284, 34.309321],
+            "day": 2
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2975",
+            "description": "Zoji La Pass",
+            "type": "Point",
+            "coordinates": [75.398672, 34.196919],
+            "day": 3
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2976",
+            "description": "Kargil",
+            "type": "Point",
+            "coordinates": [76.140175, 34.052992],
+            "day": 4
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2977",
+            "description": "Lamayuru (Moonland)",
+            "type": "Point",
+            "coordinates": [77.194076, 34.298679],
+            "day": 5
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2978",
+            "description": "Leh",
+            "type": "Point",
+            "coordinates": [77.036873, 34.152557],
+            "day": 6
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2979",
+            "description": "Nubra Valley",
+            "type": "Point",
+            "coordinates": [78.337221, 34.282338],
+            "day": 7
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c297a",
+            "description": "Pangong Lake",
+            "type": "Point",
+            "coordinates": [78.072928, 33.810027],
+            "day": 8
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c297b",
+            "description": "Hanle (Star Gazing Site)",
+            "type": "Point",
+            "coordinates": [78.958975, 32.778011],
+            "day": 9
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c297c",
+            "description": "Tso Moriri Lake",
+            "type": "Point",
+            "coordinates": [78.267338, 32.904019],
+            "day": 10
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c297d",
+            "description": "Taglang La Pass (Second Highest Motorable Pass)",
+            "type": "Point",
+            "coordinates": [77.469438, 32.438599],
+            "day": 11
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c297e",
+            "description": "Sarchu",
+            "type": "Point",
+            "coordinates": [77.168989, 32.894597],
+            "day": 12
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c297f",
+            "description": "Baralacha La Pass",
+            "type": "Point",
+            "coordinates": [77.183321, 32.975314],
+            "day": 13
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2980",
+            "description": "Uming La Pass",
+            "type": "Point",
+            "coordinates": [78.024973, 32.479892],
+            "day": 14
+        },
+        {
+            "_id": "5c88fa8cf4afda39709c2981",
+            "description": "Manali",
+            "type": "Point",
+            "coordinates": [77.188587, 32.239614],
+            "day": 15
+        }
+    ]
+  },
+  {
+    "startLocation": {
+        "description": "Leh, Ladakh, India",
+        "type": "Point",
+        "coordinates": [77.036873, 34.152557],
+        "address": "Leh, Jammu & Kashmir, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2025-08-16T10:00:00.000Z",
+      "2025-09-16T10:00:00.000Z",
+      "2026-08-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Astral Abode: Starry Nights at Hanle & Nubra",
+    "duration": 7,
+    "maxGroupSize": 6,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 110000,
+    "summary": "Experience the mesmerizing stars at Hanle and Nubra Valley in Ladakh.",
+    "description": "This 5-day journey takes you through the best star-gazing spots in Ladakh. From the serene Nubra Valley to the world-famous Hanle observatory, witness the beauty of the night sky like never before.",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+          "_id": "5c88fa8cf4afda39709c2973",
+          "description": "Leh",
+          "type": "Point",
+          "coordinates": [77.036873, 34.152557],
+          "day": 1
+      },
+      {
+          "_id": "5c88fa8cf4afda39709c2974",
+          "description": "Nubra Valley",
+          "type": "Point",
+          "coordinates": [78.337221, 34.282338],
+          "day": 2
+      },
+      {
+          "_id": "5c88fa8cf4afda39709c2975",
+          "description": "Star Gazing at Hanle",
+          "type": "Point",
+          "coordinates": [78.958975, 32.778011],
+          "day": 3
+      },
+      {
+          "_id": "5c88fa8cf4afda39709c2976",
+          "description": "Tso Moriri Lake",
+          "type": "Point",
+          "coordinates": [78.267338, 32.904019],
+          "day": 4
+      },
+      {
+          "_id": "5c88fa8cf4afda39709c2977",
+          "description": "Leh",
+          "type": "Point",
+          "coordinates": [77.036873, 34.152557],
+          "day": 5
+      }
+  ]
+  },
+  {
+    "startLocation": {
+    "description": "Tawang, Arunachal Pradesh, India",
+    "type": "Point",
+    "coordinates": [91.8624, 27.5536],
+    "address": "Tawang, Arunachal Pradesh 790104, India"
+  },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2025-02-12T10:00:00.000Z",
+      "2025-06-14T09:00:00.000Z",
+      "2025-11-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "The Jewel of the Northeast: Arunachal Adventure",
+    "duration": 7,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 40000,
+    "summary": "A journey through the stunning landscapes and rich culture of Arunachal Pradesh",
+    "description": "Explore the mesmerizing beauty of Arunachal Pradesh, from the famous Tawang monastery to the vibrant cultural traditions of the Apatani and Monpa tribes. This tour offers a unique opportunity to experience the diverse landscapes, picturesque valleys, and sacred sites of one of India's most beautiful and remote regions.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+    {
+      "_id": "5c88fa8cf4afda39709c2976",
+      "description": "Tawang Monastery",
+      "type": "Point",
+      "coordinates": [91.8624, 27.5536],
+      "day": 1
+    },
+    {
+      "_id": "5c88fa8cf4afda39709c2977",
+      "description": "Sela Pass",
+      "type": "Point",
+      "coordinates": [91.6451, 27.5743],
+      "day": 3
+    },
+    {
+      "_id": "5c88fa8cf4afda39709c2978",
+      "description": "Bhalukpong",
+      "type": "Point",
+      "coordinates": [92.5484, 26.9986],
+      "day": 5
+    },
+    {
+      "_id": "5c88fa8cf4afda39709c2979",
+      "description": "Ziro Valley",
+      "type": "Point",
+      "coordinates": [93.8159, 27.5807],
+      "day": 6
+    }
+  ]
+  }
+]
